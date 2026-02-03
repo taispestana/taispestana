@@ -2,7 +2,7 @@
 <h1 align="center">👋 Welcome to my GitHub!</h1>
 <h3 align="center">I'm Taís — Software Developer 💻✨</h3>
 
-<a href="https://app.daily.dev/taispestana"><img src="https://api.daily.dev/devcards/v2/a08et11U1m7uoRK4SfUEd.png?r=vl1&type=wide" width="652" alt="Taís Pestana's Dev Card"/></a>
+<a href="https://app.daily.dev/taispestana"><img src="https://api.daily.dev/devcards/v2/a08et11U1m7uoRK4SfUEd.png?type=default&r=lz2" width="356" alt="Taís Pestana's Dev Card"/></a>
 
 Changes to be committed:
   - Building clean and creative interfaces 🌸
