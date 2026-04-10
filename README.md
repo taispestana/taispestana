@@ -59,9 +59,11 @@
 
 <div align="center">
 
-![Taís's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taispestana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taispestana&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taispestana&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=taispestana&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taispestana&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
