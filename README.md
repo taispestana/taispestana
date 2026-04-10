@@ -59,11 +59,18 @@
 
 <div align="center">
 
-![Taís's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taispestana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F778A1&icon_color=F778A1&text_color=ffffff)
+![Taís's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taispestana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taispestana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F778A1&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taispestana&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+
+## 📰 Dev Articles I Read
+
+<a href="https://app.daily.dev/taispestana"><img src="https://api.daily.dev/devcards/v2/a08et11U1m7uoRK4SfUEd.png?type=wide&r=qg5" width="652" alt="Taís Pestana's Dev Card"/></a>
 
 ---
 
@@ -73,4 +80,4 @@
 
 </div>
 
-<a href="https://app.daily.dev/taispestana"><img src="https://api.daily.dev/devcards/v2/a08et11U1m7uoRK4SfUEd.png?type=wide&r=qg5" width="652" alt="Taís Pestana's Dev Card"/></a>
+
