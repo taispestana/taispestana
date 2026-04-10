@@ -59,11 +59,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taispestana&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=taispestana&theme=radical&hide_border=true&background=0D1117&ring=F778A1&fire=F778A1&currStreakLabel=F778A1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=taispestana&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taispestana&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taispestana&theme=radical)
 
 </div>
 
