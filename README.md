@@ -59,8 +59,6 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=taispestana&theme=radical&hide_border=true&background=0D1117&ring=F778A1&fire=F778A1&currStreakLabel=F778A1)
-
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taispestana&theme=radical)
 
 </div>
